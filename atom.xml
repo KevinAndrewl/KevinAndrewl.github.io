@@ -13,7 +13,7 @@
     <category term="杂记" />
     <entry>
         <id>http://101.33.254.211/.com/%E9%9A%8F%E7%AC%94/</id>
-        <title>测试github</title>
+        <title>随笔</title>
         <link rel="alternate" href="http://101.33.254.211/.com/%E9%9A%8F%E7%AC%94/"/>
         <content type="html">&lt;h1 id=&#34;新随笔&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#新随笔&#34;&gt;#&lt;/a&gt; 新随笔&lt;/h1&gt;
 &lt;h2 id=&#34;关于天空&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#关于天空&#34;&gt;#&lt;/a&gt; 关于天空&lt;/h2&gt;
@@ -28,21 +28,11 @@
         <updated>2024-04-22T11:47:55.000Z</updated>
     </entry>
     <entry>
-        <id>http://101.33.254.211/.com/%E6%B5%8B%E8%AF%95github/</id>
-        <title>测试github</title>
-        <link rel="alternate" href="http://101.33.254.211/.com/%E6%B5%8B%E8%AF%95github/"/>
-        <content type="html">&lt;h2 id=&#34;测试&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试&#34;&gt;#&lt;/a&gt; 测试&lt;/h2&gt;
-&lt;p&gt;发现提交到 GitHub 之后图片好像无法显示，看到有佬说提交另外的博客之后即可恢复正常，于是进行测试&lt;/p&gt;
-&lt;h2 id=&#34;解决办法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解决办法&#34;&gt;#&lt;/a&gt; 解决办法&lt;/h2&gt;
-&lt;p&gt;发现原来是本来的图片链接限制了跨域访问，后续使用随机图片 api 进行替换即可，尽量选择加载较快的 api&lt;/p&gt;
-</content>
-        <updated>2024-04-22T01:36:31.000Z</updated>
-    </entry>
-    <entry>
         <id>http://101.33.254.211/.com/%E6%9F%AF%E5%93%80/</id>
         <title>柯哀</title>
         <link rel="alternate" href="http://101.33.254.211/.com/%E6%9F%AF%E5%93%80/"/>
-        <content type="html">&lt;p&gt;在看到 M26 大火之后，感觉青山和制作组可能会继续加大柯哀的力度啊&lt;br /&gt;
+        <content type="html">&lt;h2 id=&#34;还没看之前的碎碎念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#还没看之前的碎碎念&#34;&gt;#&lt;/a&gt; 还没看之前的碎碎念&lt;/h2&gt;
+&lt;p&gt;在看到 M26 大火之后，感觉青山和制作组可能会继续加大柯哀的力度啊&lt;br /&gt;
 虽然我不嗑这部动漫的 cp，主要是主线剧情吸引我吧，虽然等了这么多年主线也才那几个篇章。。。。&lt;br /&gt;
 记得新兰的世纪之吻还是在高考之前，那一天这个话题直接登上了 wb 热搜榜。。。。但是现在 M26 票房都破百亿日元了，&lt;br /&gt;
 但是看了很多剧透的视频觉得这部剧场版可能不止是感情线吸引人吧，好像剧情那些还是不错的，所以也才能获得这么高的热度吧 (偏正向的热度)&lt;br /&gt;
@@ -51,6 +41,10 @@
  而且说回动漫，不过我还没看 M26 具体细节不好评价，等后续看完后再来补存，，，，&lt;br /&gt;
 但是我必须要说我觉得无论是小兰或是灰原都是在新一心中是无法失去的吧，&lt;br /&gt;
 然后加上林原女王的加成，我觉得我可能更希望 Sherry 能够幸福吧&lt;/p&gt;
+&lt;h2 id=&#34;看完之后的感觉&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#看完之后的感觉&#34;&gt;#&lt;/a&gt; 看完之后的感觉&lt;/h2&gt;
+&lt;p&gt;额，槽点很多，不过即使被剧透完了那么多镜头，实际看的时候还是觉得很好磕 (^^)&lt;br /&gt;
+ 有进步的地方：整体节奏不错，推理还算 ok，除去某些明显 ooc 的地方人物刻画还算精彩&lt;br /&gt;
+不足的地方：有的地方可以明显看出来不是青山的水平，樱井武晴你个云玩家，太 low 了真的；另外就是剧场版模式真的太固定了，拉一些人气角色出来凑一锅粥，之前还要思考坏人作案动机，现在直接用黑衣人 ---- 感觉主创们也是累了。&lt;/p&gt;
 </content>
         <category term="杂记" scheme="http://101.33.254.211/.com/categories/note/" />
         <category term="杂谈" scheme="http://101.33.254.211/.com/tags/%E6%9D%82%E8%B0%88/" />
@@ -626,5 +620,37 @@ nums 的子集定义为：可以经由 nums 删除某些元素（也可能不删
         <category term="杂记" scheme="http://101.33.254.211/.com/categories/note/" />
         <category term="note" scheme="http://101.33.254.211/.com/tags/note/" />
         <updated>2023-03-05T04:56:17.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://101.33.254.211/.com/BigData/%E8%AE%B0%E5%BD%95/</id>
+        <title>记录</title>
+        <link rel="alternate" href="http://101.33.254.211/.com/BigData/%E8%AE%B0%E5%BD%95/"/>
+        <content type="html">&lt;h2 id=&#34;记录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#记录&#34;&gt;#&lt;/a&gt; 记录&lt;/h2&gt;
+&lt;p&gt;&lt;s&gt;记录下在学习大数据项目 —— 数据仓库的时候碰到的一些问题&lt;/s&gt;&lt;/p&gt;
+&lt;h3 id=&#34;环境安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#环境安装&#34;&gt;#&lt;/a&gt; 环境安装&lt;/h3&gt;
+&lt;p&gt;首先是 hadoop 的安装，不得不说安装过程非常的复杂和繁琐，需要配置的文件很多&lt;/p&gt;
+&lt;p&gt;安装提示和文档配置完之后，可能会出现 NameNode 无法启动的情况，这个时候首先前往 logs 文件夹查看日志&lt;/p&gt;
+&lt;p&gt;我自己的问题是在 &lt;code&gt;/etc/hosts&lt;/code&gt;  和 &lt;code&gt;/etc/hostname&lt;/code&gt;  不对应导致的问题&lt;/p&gt;
+&lt;p&gt;另外是 zookeeper 的安装，zookeeper 配置文件需要配置好和创建对应的目录，对应的 myid 记得改，而且似乎 id 必须从 0 开始&lt;/p&gt;
+&lt;p&gt;另外特别注意是不是真的启动了&lt;/p&gt;
+&lt;p&gt;如果无法查看 status，从一下几个方面进行排查&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;防火墙；因为我用的是腾讯和阿里的云服务器，可能存在某些问题？我这里是去手动配置安全组之后才成功启动集群的&lt;/li&gt;
+&lt;li&gt;配置文件中自己的地址写成 0.0.0.0&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;另外的 flume 和 kfaka 的安装相对容易&lt;/p&gt;
+&lt;p&gt;参考资料：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0tlbm5ldGhfQ2hlbl8vYXJ0aWNsZS9kZXRhaWxzLzgzMDU5NDcw&#34;&gt;link&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;在后面使用 flume 和 kafka 传输数据的时候发现&lt;/p&gt;
+&lt;p&gt;kafka 的配置中 listener 在集群上需要配置成 0.0.0.0 下面一个配置成自己的 ip&lt;/p&gt;
+&lt;p&gt;如果还不行，就去安全组配置下&lt;/p&gt;
+&lt;p&gt;启动多个 flume 时注意要及时分发集群相应的文件 (job) 和拦截器的 jar 包&lt;/p&gt;
+&lt;p&gt;测试&lt;/p&gt;
+&lt;h3 id=&#34;放弃了&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#放弃了&#34;&gt;#&lt;/a&gt; 放弃了&lt;/h3&gt;
+&lt;p&gt;部署环境搞了两天，项目没什么进展，各种迷之 bug 把自己心态搞差了，放弃自己实现了&lt;/p&gt;
+&lt;p&gt;专注理解大数据基础和核心代码&lt;/p&gt;
+</content>
+        <category term="大数据" scheme="http://101.33.254.211/.com/categories/bigdata/" />
+        <category term="biodata" scheme="http://101.33.254.211/.com/tags/biodata/" />
+        <updated>2023-03-03T14:25:06.000Z</updated>
     </entry>
 </feed>
